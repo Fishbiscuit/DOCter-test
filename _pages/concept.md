@@ -20,4 +20,6 @@ We will
 3. **Bring together** the larger graduate and research community in the SUTD ecosystem through tours and meet ups.
 4. **Provide** a consistent visual branding throughout the event.
 
+If you're interested in helping in any of these objectives or simply would like to give feedback, please check out the [Contributing](https://fishbiscuit.github.io/Discovery-Week-Project-Site-Test/contributing/) page.
+
 The event is hosted on [Eventyay](https://eventyay.com/e/80f9d561/) in true [OpenSUTD](https://github.com/OpenSUTD) spirit.
