@@ -10,7 +10,7 @@ Concerns raise were:
 2. Find ways to reach out to students that are disengaged
 
 Presented this:
-(images are overly large, to view the proper proposal please go to [here](https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test/blob/gh-pages/_posts/2019-02-22-meeting.markdown)
+(images are overly large, to view the proper proposal please go [here](https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test/blob/gh-pages/_posts/2019-02-22-meeting.markdown))
 # Concept
 Adopting the model of a Conference with large-scale talks targeted at the general audience but also breakout sessions that participants can sign-up for on an individualised manner.
 
