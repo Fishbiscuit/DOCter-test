@@ -41,7 +41,7 @@ navigation:
   url: contributing/
   internal: true
 - text: Proposal Details
-  url: proposa_details/
+  url: proposal_details/
   internal: true
 - text: Documentation repo
   url: https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test
