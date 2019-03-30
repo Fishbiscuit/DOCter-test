@@ -40,11 +40,11 @@ navigation:
 - text: Contributing
   url: contributing/
   internal: true
-- text: Documentation
-  url: documentation/
+- text: Proposal Details
+  url: proposa_details/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: Documentation repo
+  url: https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test
   internal: false
 
 # Repo list
