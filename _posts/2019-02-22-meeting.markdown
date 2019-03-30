@@ -31,7 +31,7 @@ Inspiration:
 
 # Planning Parameters
 Discovery Week to **take place in the afternoons within the 1st week of term (i.e. 21 May to 24 May)?** Discover Week may tentatively begin from 2pm onwards however do avoid planning activities on Wednesday (22 May) afternoon and the timeslots for Tuesday as stated below.
-![](https://i.imgur.com/M8bW6aC.png){: width=100 height=100 style="float:right; padding:16px"}
+![](https://i.imgur.com/M8bW6aC.png){: width=100 height=100}
 
 Take note of Ramadan and be culturally sensitive
 
@@ -119,7 +119,7 @@ Overview of activities
 1. After-party - Open Mic
 
 ## Theory of Change
-![Key framework driving our theory of change](https://i.imgur.com/qULvsIt.png)
+![Key framework driving our theory of change](https://i.imgur.com/qULvsIt.png){: width=100 height=100}
 Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approach-to-onboarding-4a6c952a3e62)
 
 |**IF**|**THEN**|
@@ -132,7 +132,7 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 
 ## Stakeholder Map
-![StakeholderMap](https://i.imgur.com/BzY3y0K.png){: width=150 height=100 style="float:right; padding:16px"}
+![StakeholderMap](https://i.imgur.com/BzY3y0K.png){: width=100 height=100}
 *Pillar Rooms meaning Learning Lab (ISTD), ESD Room, ASD Studios*
 
 ! Ensuring alignment with [Open House themes](https://openhouse.sutd.edu.sg/why-sutd/). Key objective to show them the embodiment of the 'why SUTD' statements.
@@ -148,7 +148,7 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 # Review
 ## Discovery Week 2018
-![Discovery Week Timetable](https://i.imgur.com/ZNAXU9t.jpg){: width=150 height=100 style="float:right; padding:16px"}
+![Discovery Week Timetable](https://i.imgur.com/ZNAXU9t.jpg){: width=100 height=100}
  - Students lost interest quite quickly as they had no mental compass as to what events would be useful
  - better aesthetic language would be desired
  - students are looking for something to transition them into university life to help them cope with Freshmore term
