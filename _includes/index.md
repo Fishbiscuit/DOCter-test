@@ -12,3 +12,4 @@ An Open Organization is one that engages participative communities both inside a
 ```
 
 This is why we are making sure that our project documents are kept open so that **you** can be a part of this process.
+Read the "Posts" section at the bottom of this page if you're interested in going through our minutes.
