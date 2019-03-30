@@ -43,7 +43,7 @@ navigation:
 - text: Proposal Details
   url: proposal_details/
   internal: true
-- text: Documentation repo
+- text: Site repo
   url: https://github.com/Fishbiscuit/Discovery-Week-Project-Site-Test
   internal: false
 
