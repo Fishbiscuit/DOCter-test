@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Concept"
 ---
 Discovery Week (Working Title)
