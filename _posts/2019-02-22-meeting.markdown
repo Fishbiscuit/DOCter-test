@@ -31,7 +31,7 @@ Inspiration:
 
 # Planning Parameters
 Discovery Week to **take place in the afternoons within the 1st week of term (i.e. 21 May to 24 May)?** Discover Week may tentatively begin from 2pm onwards however do avoid planning activities on Wednesday (22 May) afternoon and the timeslots for Tuesday as stated below.
-![](https://i.imgur.com/M8bW6aC.png)
+![](https://i.imgur.com/M8bW6aC.png){: width=100 height=100 style="float:right; padding:16px"}
 
 Take note of Ramadan and be culturally sensitive
 
@@ -132,7 +132,7 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 
 ## Stakeholder Map
-![StakeholderMap](https://i.imgur.com/BzY3y0K.png)
+![StakeholderMap](https://i.imgur.com/BzY3y0K.png){: width=150 height=100 style="float:right; padding:16px"}
 *Pillar Rooms meaning Learning Lab (ISTD), ESD Room, ASD Studios*
 
 ! Ensuring alignment with [Open House themes](https://openhouse.sutd.edu.sg/why-sutd/). Key objective to show them the embodiment of the 'why SUTD' statements.
@@ -148,7 +148,7 @@ Taken from [A novel approach to onboarding](https://blog.hiri.com/a-novel-approa
 
 # Review
 ## Discovery Week 2018
-![Discovery Week Timetable](https://i.imgur.com/ZNAXU9t.jpg)
+![Discovery Week Timetable](https://i.imgur.com/ZNAXU9t.jpg){: width=150 height=100 style="float:right; padding:16px"}
  - Students lost interest quite quickly as they had no mental compass as to what events would be useful
  - better aesthetic language would be desired
  - students are looking for something to transition them into university life to help them cope with Freshmore term
