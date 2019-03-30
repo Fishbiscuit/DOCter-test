@@ -37,6 +37,7 @@ If you're a Fifth Row leader, a Senior or alumni and would like to hold a worksh
 For examples of other workshops that are pretty good, take a look at the recent [Deep Learning Workshop](https://github.com/OpenSUTD/deeplearning-workshop-2019).
 
 **I would like to be a part of the team**
+
 For Human Library and Lightning Talks:
 Because we are not insane, we would start work officially from 5th May onwards, giving us about 3 weeks to Discovery Week.
 1. Communications: From the time you join until 5th May, the core team will be working on communicating with SUTD staff to prepare for sessions. You will be required to keep track of the conversation as we go so that we can start work once 5th May arrives.
