@@ -47,9 +47,9 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: Discovery Week
+  description: Master Repository
+  url: https://github.com/OpenSUTD/discovery-week-working-title
 
 # Style Variables
 brand_color: "#2cb34a"
