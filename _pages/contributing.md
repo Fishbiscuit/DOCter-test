@@ -3,6 +3,7 @@ layout: page
 title:  "Contributing"
 ---
 **Overall Contribution Workflow**
+
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.
 3. Once it is reviewed and cleared, you will get a notification. 
@@ -12,11 +13,13 @@ title:  "Contributing"
 We are also looking for people to join our team to work on the Human Library, Lightning Talks, Visual branding and overall event management. (see below)
 
 **I would like to make a suggestion**
+
 1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
 2. Click on "Get started" under Feedback for OrgComm
 3. Let us know how we can do better!
 
 **I would like to speak for Lightning talks**
+
 So what's a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)?
 Lightning talks are designed to be short presentations between five and ten minutes long, but are usually capped at five minutes
 1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
@@ -24,6 +27,7 @@ Lightning talks are designed to be short presentations between five and ten minu
 3. Let us know your Session Title, a short Abstract, who you are, what participants should take away from your session and if you need any special logistics
 
 **I would like to hold a session**
+
 If you're a Fifth Row leader, a Senior or alumni and would like to hold a workshop for Freshmores.
 
 1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
