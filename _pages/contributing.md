@@ -7,10 +7,7 @@ title:  "Contributing"
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.
 3. Once it is reviewed and cleared, you will get a notification.
-4.
-a) If you're proposing a session for the event, please proceed to [Eventyay](https://eventyay.com/e/80f9d561/cfs/) to submit your proposal. This is done to collate your details and to get ready to schedule you for the event.
-
-b) If you're making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
+4. If you're proposing a session for the event, please proceed to [Eventyay](https://eventyay.com/e/80f9d561/cfs/) to submit your proposal. This is done to collate your details and to get ready to schedule you for the event. Otherwise, if you're making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
 
 We are also looking for people to join our team to work on the Human Library, Lightning Talks, Visual branding and overall event management. (see below)
 
