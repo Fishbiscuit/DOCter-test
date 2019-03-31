@@ -13,3 +13,24 @@ An Open Organization is one that engages participative communities both inside a
 
 This is why we are making sure that our project documents are kept open so that **you** can be a part of this process.
 Read the "Posts" section at the bottom of this page if you're interested in going through our minutes.
+
+Adopting the model of a Conference with large-scale talks targeted at the general audience but also breakout sessions that participants can sign-up for on an individualised manner.
+
+Emphasis on personal agency to allow for self-discovery of SUTD's ecosystem.
+
+# Objectives
+For Freshmores - understand the spaces (virtual and physical), avenues for resources and communities in SUTD in order to embody the desired culture Culture embodying the spirit of innovation, collaboration, having self-initiated projects, self-directed learning and broad-based skill integration
+
+For SUTD - celebrate the work done by our research community, 5th rows and housing (specifically amongst seniors) Showcase the potential of UROPs and taking up research projects in SUTD, similar to LCC in an interactive/ experiential manner
+
+# But what does this mean?
+We will
+
+Support Fifth Rows by providing a budget for you to hold workshops that cater to Freshmores. There's just a small catch, do follow the template we provide to facilitate preparing the event schedule.
+Organise community sesions in the form of a Human Library, Lightning Talks and Housing events.
+Bring together the larger graduate and research community in the SUTD ecosystem through tours and meet ups.
+Provide a consistent visual branding throughout the event.
+If you're interested in helping in any of these objectives or simply would like to give feedback, please check out the Contributing page.
+
+The event is hosted on Eventyay in true OpenSUTD spirit.
+
