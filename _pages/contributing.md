@@ -8,9 +8,9 @@ title:  "Contributing"
 2. We will reply to your issue and review it.
 3. Once it is reviewed and cleared, you will get a notification. 
 
-4a. If you're proposing a session for the event, please proceed to [Eventyay](https://eventyay.com/e/80f9d561/cfs/) to submit your proposal. This is done to collate your details and to get ready to schedule you for the event.
+  4a. If you're proposing a session for the event, please proceed to [Eventyay](https://eventyay.com/e/80f9d561/cfs/) to submit your proposal. This is done to collate your details and to get ready to schedule you for the event.
 
-4b. If you're making a suggestion for improvement, the workflow will diverge and tailor idea given.
+  4b. If you're making a suggestion for improvement, the workflow will diverge and tailor idea given.
 
 We are also looking for people to join our team to work on the Human Library, Lightning Talks, Visual branding and overall event management. (see below)
 
