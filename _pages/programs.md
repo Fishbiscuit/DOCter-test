@@ -35,4 +35,4 @@ Experential session to expose to students what Pillar life will be like. Focus o
 
 **Supper makan sessions**
 
-Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences and SUTD>
+Yes you heard that right! We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class. Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.
