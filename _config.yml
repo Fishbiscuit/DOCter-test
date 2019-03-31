@@ -34,8 +34,8 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Concept
-  url: concept/
+- text: Programs
+  url: programs/
   internal: true
 - text: Contributing
   url: contributing/
