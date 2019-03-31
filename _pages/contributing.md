@@ -9,7 +9,7 @@ title:  "Contributing"
 3. Once it is reviewed and cleared, you will get a notification.
 4. If you're proposing a session for the event, please proceed to [Eventyay](https://eventyay.com/e/80f9d561/cfs/) to submit your proposal. This is done to collate your details and to get ready to schedule you for the event. Otherwise, if you're making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
 
-We are also looking for people to join our team to work on the Human Library, Lightning Talks, Visual branding and overall event management. (see below)
+*We are also looking for people to join our team to work on the Human Library, Lightning Talks, Visual branding and overall event management. (see below)*
 
 **I would like to make a suggestion**
 
@@ -36,6 +36,12 @@ If you're a Fifth Row leader, a Senior or alumni and would like to hold a worksh
 For examples of other workshops that are pretty good, take a look at the recent [Deep Learning Workshop](https://github.com/OpenSUTD/deeplearning-workshop-2019).
 
 **I would like to be a part of the team**
+
+For visual branding:
+We've requested for a budget! Since we're a design school, our efforts need to not just be conceptually sound but aesthetically pleasing. To alleviate the work, possibly looking at seeking freelancers to prepare material.
+1. assist session organisers to maintain a consistent visual brand throughout the event
+2. produce graphics for curated tracks and programs
+
 
 For Human Library and Lightning Talks:
 Because we are not insane, we would start work officially from 5th May onwards, giving us about 3 weeks to Discovery Week.
