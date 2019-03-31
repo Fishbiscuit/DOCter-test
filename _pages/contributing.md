@@ -40,4 +40,4 @@ For examples of other workshops that are pretty good, take a look at the recent 
 For Human Library and Lightning Talks:
 Because we are not insane, we would start work officially from 5th May onwards, giving us about 3 weeks to Discovery Week.
 1. Communications: From the time you join until 5th May, the core team will be working on communicating with SUTD staff to prepare for sessions. You will be required to keep track of the conversation as we go so that we can start work once 5th May arrives.
-2. Commitment: You will need to be able to commit to coming down to SUTD on 23rd or 29th May depending on which event you commit to so asas to ensure smooth running of the event.
+2. Commitment: You will need to be able to commit to coming down to SUTD on 23rd or 29th May depending on which event you commit to so as to ensure smooth running of the event.
